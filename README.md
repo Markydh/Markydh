@@ -1,4 +1,9 @@
 ### Hi there 👋
+   🔭 I’m currently study at Nanchang University
+   🌱 I’m currently learning python. like Crawling, Machine learning
+   👯 I’m looking to collaborate on learning
+   📫 How to reach me: dianhong.yang.one@gmail.com or 2247654142@qq.com
+     
 
 <!--
 **Markydh/Markydh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
