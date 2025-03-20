@@ -3,7 +3,7 @@
 ### Hi there 🤩
 ### 🔭 undergraduate：Nanchang University 
 ### 😄 postgraduate：ShanghaiTech University
-### 🌱 I’m currently learning EE MachineLearning DeepLearning
+### 🌱 I’m currently learning LLMs EE
 ### 👯 I’m looking to collaborate on learning
 ### 📫 How to reach me: dianhong.yang.one@gmail.com or 2247654142@qq.com
 
