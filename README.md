@@ -40,7 +40,7 @@ English | [中文](./README_CN.md)
 </tr></td></table>
 
 ### Record
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Markydh&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Markydh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
