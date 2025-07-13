@@ -1,7 +1,6 @@
 English | [中文](./README_CN.md)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;What+Can+I+Say!&center=true&font=Lato&size=32&color=pink)](https://git.io/typing-svg)
-# Up to now, there have been 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;What+Can+I+Say!&center=true&font=Lato&size=32&color=pink)](https://git.io/typing-svg)
 ### Here are some ideas to get you started:
 - 🔭 undergraduate：Nanchang University 
 - 🌱 I’m currently studying at ShanghaiTech University
