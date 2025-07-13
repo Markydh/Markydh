@@ -1,11 +1,11 @@
 [English](./README.md) | 中文
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;What+Can+I+Say!&center=true&font=Lato&size=32&color=pink)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=额...;无+话+可+说+!&center=true&font=Lato&size=32&color=pink)](https://git.io/typing-svg)
 ### 你可以从此大概了解我：
 - 🔭 本科就读：南昌大学
 - 🌱 研究生就读于上海科技大学（在读）
 - 📫 如何联系我: dianhong.yang.one@gmail.com
-- 🔭 我的研究方向: large language models, integrated sensing and communication, multimodality
+- 🔭 我的研究方向: 大模型, 感知通信, 多模态
 
 ### 我的技能集：
 <table><tr><td valign="top" width="32%">
